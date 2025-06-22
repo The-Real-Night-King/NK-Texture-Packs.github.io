@@ -9,30 +9,23 @@
         * {
             margin: 0;
             padding: 0;
-            width: 100%;
+
             box-sizing: border-box;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
+
+        
 
         body {
             background-color: #f0f8ff;
             color: #155e75;
 
         }
-        html, body {
-        margin: 0;
-        padding: 0;
-        width: 100%;
+        .container-lg {
+        max-width: 100%;
+        margin-right: auto;
+        margin-left: auto;
         }
-
-        .container {
-         width: 100%;
-         max-width: 100%;
-         padding: 0;
-         margin: 0 auto;
-        }
-
-
         /* Header */
         header {
             background: linear-gradient(135deg, #06b6d4, #0e7490);
