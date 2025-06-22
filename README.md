@@ -16,6 +16,9 @@
         body {
             background-color: #f0f8ff;
             color: #155e75;
+            width: 100%;
+            margin: 0;
+            padding: 0;
         }
 
         /* Header */
