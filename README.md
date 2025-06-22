@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Centered NK-</title>
+
   <style>
     body {
       margin: 0;
@@ -29,8 +29,5 @@
   </style>
 </head>
 <body>
-  <header>
-    <h1>NK-</h1>
-  </header>
 </body>
 </html>
