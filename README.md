@@ -47,23 +47,6 @@
             transform: translateY(-5px);
             box-shadow: 0 10px 25px rgba(6, 182, 212, 0.5);
         }
-        .wave-shape {
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            overflow: hidden;
-            line-height: 0;
-        }
-        .wave-shape svg {
-            position: relative;
-            display: block;
-            width: calc(100% + 1.3px);
-            height: 150px;
-        }
-        .wave-shape .shape-fill {
-            fill: #FFFFFF;
-        }
     </style>
 </head>
 <body class="bg-cyan-50 font-sans">
