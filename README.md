@@ -31,7 +31,7 @@
 
         header {
             background-color: var(--dark-cyan-darker);
-            padding: 2rem 0;
+            padding: 20px;
             text-align: center;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
         }
