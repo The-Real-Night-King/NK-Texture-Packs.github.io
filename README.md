@@ -28,7 +28,11 @@
             display: flex;
             flex-direction: column;
         }
-
+        .container {
+            width: 100%;
+            max-width: none;
+            padding: 0;
+        }
         header {
             background-color: var(--dark-cyan-darker);
             padding: 20px;
