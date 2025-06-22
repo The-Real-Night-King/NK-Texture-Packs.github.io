@@ -21,10 +21,11 @@
 
     .a {
     background-color: transparent;
+    color: cyan;
     }
     h1 {
       font-size: 4rem;
-      color: #008484;
+      color: cyan;
       text-align: center;
       text-shadow: 0 0 12px #00e5ff;
       margin: 0;
