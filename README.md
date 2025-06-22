@@ -1,4 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Centered NK-</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #0e1a1f;
+      font-family: 'Segoe UI', sans-serif;
+    }
 
-header h1 {
-  text-align: center;
-}
+    header {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh; /* Full screen height */
+      background: linear-gradient(to right, #00bcd4, #006064);
+    }
+
+    h1 {
+      font-size: 4rem;
+      color: #e0f7fa;
+      text-align: center;
+      text-shadow: 0 0 12px #00e5ff;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>NK-</h1>
+  </header>
+</body>
+</html>
