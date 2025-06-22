@@ -2,36 +2,22 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
+  <title>NK-Texture-packs</title>
   <style>
     body {
       margin: 0;
-      background-color: #0e1a1f;
-      font-family: 'Segoe UI', sans-serif;
-    }
-
-    header {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh; /* Full screen height */
-      background: linear-gradient(to right, #00bcd4, #006064);
-    }
-
-    .a {
-    background-color: transparent;
-    color: cyan;
+      background: #0e1a1f;
     }
     h1 {
-      font-size: 4rem;
       color: cyan;
       text-align: center;
-      text-shadow: 0 0 12px #00e5ff;
-      margin: 0;
+      margin-top: 3rem;
+      font-family: sans-serif;
+      text-shadow: 0 0 8px cyan;
     }
   </style>
 </head>
 <body>
+  <h1>NK-Texture-packs</h1>
 </body>
 </html>
