@@ -7,6 +7,13 @@
   --text-dark: #333;
 }
 
+
+@font-face {
+  font-family: 'Minecraftia';
+  src: url('fonts/Minecraftia.ttf') format('truetype');
+}
+
+
 * {
   margin: 0;
   padding: 0;
