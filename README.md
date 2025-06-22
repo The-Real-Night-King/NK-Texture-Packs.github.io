@@ -4,17 +4,18 @@
   <meta charset="UTF-8" />
   <title>NK-Texture-packs</title>
   <style>
-    body {
-      margin: 0;
-      background: #0e1a1f;
-    }
-    h1 {
-      color: cyan;
-      text-align: center;
-      margin-top: 3rem;
-      font-family: sans-serif;
-      text-shadow: 0 0 8px cyan;
-    }
+header {
+    background-color: rgb(17 38 51 / 48%); /* Semi-transparent header */
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+}
   </style>
 </head>
 <body>
