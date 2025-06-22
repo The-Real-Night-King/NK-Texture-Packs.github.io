@@ -9,6 +9,7 @@
         * {
             margin: 0;
             padding: 0;
+            width: 100%;
             box-sizing: border-box;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
@@ -16,10 +17,21 @@
         body {
             background-color: #f0f8ff;
             color: #155e75;
-            width: 100%;
-            margin: 0;
-            padding: 0;
+
         }
+        html, body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        }
+
+        .container {
+         width: 100%;
+         max-width: 100%;
+         padding: 0;
+         margin: 0 auto;
+        }
+
 
         /* Header */
         header {
