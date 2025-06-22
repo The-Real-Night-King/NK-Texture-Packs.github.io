@@ -21,6 +21,7 @@
         }
 
         body {
+            width: 100%;
             background-color: #111;
             color: var(--text-light);
             min-height: 100vh;
