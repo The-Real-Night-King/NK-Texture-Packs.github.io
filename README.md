@@ -19,6 +19,9 @@
       background: linear-gradient(to right, #00bcd4, #006064);
     }
 
+    .a {
+    background-color: transparent;
+    }
     h1 {
       font-size: 4rem;
       color: #008484;
